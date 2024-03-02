@@ -1,0 +1,24 @@
+/* src/App.css */
+
+@import '~bootstrap/dist/css/bootstrap.min.css';
+/* src/App.css */
+
+
+.PlanetCardContainer {
+  background-color: #1f1f1f; /* Dark gray background color for cards */
+}
+
+.App {
+  text-align: center;
+}
+/* src/App.css */
+
+.PlanetCardContainer:hover {
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+.PlanetCardContainer:hover {
+  transform: scale(1.05); /* Increase scale on hover for a subtle zoom effect */
+}
+
+/* Add your custom styles here */
